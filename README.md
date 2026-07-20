@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+  Привет, я Николай
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<!--
-**alina-porutchikova/alina-porutchikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/@NikolaiPor">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
+  </a>&nbsp;&nbsp;
+  <a href="https://vk.com/k.porutchikov">
+    <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" style="min-width: 120px; height: 28px;" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Обо мне :
+
+- Я пришёл в аналитику из театра. 12 лет работал в творческой сфере: ставил спектакли, открыл студию с нуля, занимался продвижением и продажами. Принимал решения на основе данных о продажах, заполняемости, вовлечённости.
+  
+- Сейчас применяю этот подход системно. Не просто считаю метрики, а ищу причинно-следственные связи и предлагаю решения.
+  
+- Мне важно, чтобы моя работа приносила измеримый результат.
+  
+- Готов к сотрудничеству 🤝
+---
