@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://t.me/@NikolaiPor">
+  <a href="https://t.me/aalinchik">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
   </a>&nbsp;&nbsp;
   <a href="https://vk.ru/id193178458">
