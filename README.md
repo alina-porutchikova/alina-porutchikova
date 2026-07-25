@@ -7,7 +7,7 @@
   <a href="https://t.me/@NikolaiPor">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" style="min-width: 120px; height: 28px;" />
   </a>&nbsp;&nbsp;
-  <a href="https://vk.com/k.porutchikov">
+  <a href="https://vk.ru/id193178458">
     <img src="https://img.shields.io/badge/VK-0088cc?style=flat-square&logo=vk&logoColor=white" style="min-width: 120px; height: 28px;" />
   </a>
 </p>
