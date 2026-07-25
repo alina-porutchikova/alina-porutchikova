@@ -26,8 +26,8 @@
 
 | Название проекта | Описание |
 |---|---|
-| [Пресс-релизы и пост-релизы](https://github.com/alina-porutchikova/press-release) | Пресс-релизы и пост-релизы для спектаклей «Гамлет», «Не скажу» и проекта «Театральный поезд» |
 | [TNL Professional — контент для бренда](https://github.com/alina-porutchikova/TNL) | Посты для социальных сетей бренда профессиональной косметики TNL Professional |
-| [Волгоградский молодёжный театр — контент](https://github.com/alina-porutchikova/teatr) | Анонсы для VK, описания спектаклей для сайта, интервью с актёрами, посты о премьерах |
 | [Premium Aesthetics — контент для бренда](https://github.com/alina-porutchikova/cosmetology) | Посты для бренда эстетической медицины: аппараты Lumenis, вебинары, медицинские статьи |
 | [Skyline Towers — контент для ЖК](https://github.com/alina-porutchikova/Skyline-Towers) | Посты для клубного дома Skyline Towers: фасад, лифты, отдых на крыше, коворкинг |
+| [Пресс-релизы и пост-релизы](https://github.com/alina-porutchikova/press-release) | Пресс-релизы и пост-релизы для спектаклей «Гамлет», «Не скажу» и проекта «Театральный поезд» |
+| [Волгоградский молодёжный театр — контент](https://github.com/alina-porutchikova/teatr) | Анонсы для VK, описания спектаклей для сайта, интервью с актёрами, посты о премьерах |
